@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    display: inline;
+}
+.logo{
+    text-decoration: none;
+    
+    position: fixed;
+    margin-left: 10px;
+}
+.bass{
+position: fixed;
+  margin-left: 1400px; 
+   margin-right: 30px;
+   margin-top: 8px;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.548);
+    color: white;
+}
+.bass2{
+  position: absolute;
+    top: 420px;
+    left: 120px;
+    height: 60px;
+    width: 140px;
+    border-radius: 20px;
+    background-color: #ffffff4b;
+color: white;    
+}
+
+.section1{
+    height: 100vh;
+    background-image:url(img/certaaaa.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section2{
+   height: 100vh;
+   background-image: url(img/2d2d2d.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+.texto1{
+    color: white;
+    position: absolute;
+    top: 220px;
+    font-size: 30px;
+    margin-left: 120px;
+}
+.texto2{
+color: white;
+position: absolute;
+top: 270px;
+margin-left: 120px;
+font-size: 20px;
+}
+.texto3{
+    color: white;
+    position: absolute;
+    top: 310px;
+    margin-left: 120px;
+    font-size: 20px;
+}
+.texto4{
+    color: white;
+    position: absolute;
+    top: 340px;
+    margin-left: 120px;
+    font-size: 50px;
+}
+.texto5{
+    color: rgb(182, 182, 182);
+    position: absolute;
+    top: 370px;
+    left: 324px;
+    font-size: 12px;
+}
+.texto6{
+    color: #ffffff4b;
+    position: absolute;
+    top: 500px;
+    left: 120px;
+    font-size: 12px;
+}
+.tplanos{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
