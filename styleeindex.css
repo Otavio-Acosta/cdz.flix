@@ -95,3 +95,39 @@ font-size: 20px;
     font-size: 30px;
     text-align: center;
 }
+.bass:hover{
+color: black;
+background-color: white;
+}
+div{
+    color: white;
+}
+aside{
+    color: white;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+.divo{
+   border: dotted 3px white;
+   border-radius: 11px;
+
+    width: 70%;
+}
+.valorr{
+ float: inline-end;
+ position: absolute;
+ left: 500px;
+ top: 1122px;
+ color: rgb(235, 235, 235);
+ text-shadow: 2px 2px rgb(0, 0, 0);
+}
+.as{
+margin-left: 20px;
+font-size: 20px;
+}
+
