@@ -35,7 +35,10 @@ position: fixed;
     background-color: #ffffff4b;
 color: white;    
 }
-
+.bass2:hover{
+color: black;
+background-color: white;
+}
 .section1{
     height: 100vh;
     background-image:url(img/certaaaa.jpg);
@@ -125,9 +128,67 @@ aside{
  top: 1122px;
  color: rgb(235, 235, 235);
  text-shadow: 2px 2px rgb(0, 0, 0);
+ font-size: 16px;
 }
 .as{
 margin-left: 20px;
 font-size: 20px;
 }
+.valorrr{
+    float: inline-end;
+    position: absolute;
+    left: 1200px;
+    top: 1125px;
+    color: rgb(235, 235, 235);
+    text-shadow: 2px 2px rgb(0, 0, 0);
+}
+.grid2{
+    border: dotted 3px white;
+    border-radius: 11px;
+ height: 100%;
+     width: 70%;
+}
+.sa{
+    font-size: 20px;
+    padding-left: 20px;
+    padding: 7px;
+}
+.mult{
+    padding-top:30px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.duvidar{
+   background-image: url(img/bbbbbbbb.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.bd{
+border: 0;
+margin-bottom: 7px;
+position: relative;
+width: 750px;
+height: 70px;
+background-color: rgb(109, 109, 109);
+text-align: left;
+padding-left: 10px;
+display: grid;
+margin-left: 450px;
+border-radius: 12px;
+}
+.pdb{
+    font-size: 30px;
+    margin: 20px;
+}
+.duvidass{
+    text-align: center;
+    font-size: 40px;
+    text-shadow: 3px 3px rgb(40, 4, 245);
+    margin-bottom: 20px;
+    padding-top: 50px;
+    color: black;
+}
+
+
 
