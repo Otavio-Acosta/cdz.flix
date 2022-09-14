@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 *{
     margin: 0%;
     padding: 0%;
@@ -160,9 +163,10 @@ font-size: 20px;
     font-size: 20px;
 }
 .duvidar{
-   background-image: url(img/bbbbbbbb.jpg);
+   background-image: url(img/ao\ contrario.jpg);
    background-repeat: no-repeat;
    background-size: cover;
+  
 }
 .bd{
 border: 0;
@@ -187,6 +191,96 @@ border-radius: 12px;
     text-shadow: 3px 3px rgb(40, 4, 245);
     margin-bottom: 20px;
     padding-top: 50px;
+    color: black;
+}
+.submenu{
+    font-size: 30px;
+    margin: 20px;
+    border: 0;
+margin-bottom: 7px;
+position: relative;
+width: 750px;
+height: 70px;
+background-color: rgb(109, 109, 109);
+text-align: left;
+padding-left: 10px;
+display: grid;
+margin-left: 450px;
+border-radius: 12px;
+}
+.subp{
+    border: 0;
+margin-bottom: 7px;
+position: relative;
+width: 750px;
+height: 220px;
+background-color: rgb(109, 109, 109);
+text-align: left;
+padding-left: 10px;
+display: grid;
+margin-left: 450px;
+border-radius: 12px;
+font-size: 25px;
+color: black;
+}
+.submenu2{
+    font-size: 30px;
+    margin: 20px;
+    border: 0;
+margin-bottom: 7px;
+position: relative;
+width: 750px;
+height: 70px;
+background-color: rgb(109, 109, 109);
+text-align: left;
+padding-left: 10px;
+display: grid;
+margin-left: 450px;
+border-radius: 12px;
+}
+.subp2{
+    border: 0;
+    margin-bottom: 7px;
+    position: relative;
+    width: 750px;
+    height: 130px;
+    background-color: rgb(109, 109, 109);
+    text-align: left;
+    padding-left: 10px;
+    display: grid;
+    margin-left: 450px;
+    border-radius: 12px;
+    font-size: 25px;
+    color: black;
+}
+.submenu3{
+    font-size: 30px;
+    margin: 20px;
+    border: 0;
+margin-bottom: 7px;
+position: relative;
+width: 750px;
+height: 70px;
+background-color: rgb(109, 109, 109);
+text-align: left;
+padding-left: 10px;
+display: grid;
+margin-left: 450px;
+border-radius: 12px;
+}
+.subp3{
+    border: 0;
+    margin-bottom: 7px;
+    position: relative;
+    width: 750px;
+    height: 240px;
+    background-color: rgb(109, 109, 109);
+    text-align: left;
+    padding-left: 10px;
+    display: grid;
+    margin-left: 450px;
+    border-radius: 12px;
+    font-size: 25px;
     color: black;
 }
 

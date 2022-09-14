@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(img/fundo\ assinar.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+position: absolute;
+left: 38%;
+top: 30%;
+}
